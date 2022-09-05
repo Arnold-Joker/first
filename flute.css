@@ -1,0 +1,44 @@
+body{
+				background: black;
+}
+section{
+				margin: 10px;
+				color: #40e0ff;
+				background-color: black;
+				border-radius: 20px;
+				border: solid;
+				border-color: #40e0ff;
+				text-align: center;
+}
+header{
+				color: #55eaff;
+				text-align: center;
+				border: solid #55eaff;
+}
+
+.span_1{
+				color: #a5ff55;
+}
+span{
+				color: #2bff2e;
+}
+
+button{
+				font-size: 1em;
+				color: #15e0ff;
+				background: black;
+				width:80px;
+				height: 40px;
+				border-radius: 20px;
+}
+button:hover{
+				background-color: white;
+				color: black;
+}
+
+footer{
+				border: solid;
+				border-radius:15px;
+				color: white;
+				text-align: center;
+}

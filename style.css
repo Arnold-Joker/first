@@ -1,0 +1,48 @@
+body{
+  font: 15px/1.5 Arial, Helvetica,sans-serif;
+  padding:0;
+  margin:0;
+  background-color:#d5dfff;
+}
+ul{
+				margin: 0;
+				padding: 0;
+}
+header{
+				background: black;
+				color: #55eaff;
+				padding: 30px;
+				min-height:70px;
+				border-bottom: solid 5px #55eaff;
+}
+header a{
+				color: #5cff40;
+				text-decoration: none;
+				text-transform: uppercase;
+				font-size: 16px;
+}
+header li{
+				float: left;
+				display: inline;
+				padding: 0 20px 0 20px;
+}
+header #branding{
+				float:left;
+}
+
+header #branding h1{
+				margin: 0;
+}
+
+header nav{
+				float: left;
+				margin-top: 10px;
+}
+header .highlight, header .current a{
+  color:#e8491d;
+  font-weight:bold;
+}
+header .highlight, header .current a{
+  color:#e8491d;
+  font-weight:bold;
+}
